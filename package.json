@@ -1,0 +1,19 @@
+{
+  "name": "namaste-tinder",
+  "version": "1.0.0",
+  "description": "tinder for dev",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm src/app.js",
+    "dev":"nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Anju",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
